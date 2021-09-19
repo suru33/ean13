@@ -1,3 +1,5 @@
-# ean13 gen
+# Generate random EAN-13
 
-generates EAN-13 and install binary
+```
+cargo install --git https://github.com/suru33/ean13.git
+```
