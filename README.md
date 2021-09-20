@@ -1,4 +1,4 @@
-# Generate random EAN-13
+# Generate and validate EAN-13
 
 ```shell
 cargo install --git https://github.com/suru33/ean13.git --tag v1.0.0
